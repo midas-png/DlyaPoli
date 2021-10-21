@@ -24,7 +24,7 @@ class UchiJavuBlya {
         // Сортировку можешь написать свою, например, сортировка пузырьком, будет тот же результат.
     }
 
-    public static int count11(String value){
+    public static int countSimilar(String value){
         String regex = "11"; // Элемент, который нужно найти
         int count = 0;
 
